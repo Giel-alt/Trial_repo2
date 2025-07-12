@@ -1,1 +1,1 @@
-var = 34
+var = "This is a string"
